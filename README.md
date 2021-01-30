@@ -5,6 +5,8 @@
 - [github](https://github.com/hotsoycandy)
 - [stackoverflow](https://stackoverflow.com/users/8414569/jun)
 
+---
+
 #### 헤헤헤헤
 
 서울디지텍고등학교 강사 2019년 ~
@@ -14,6 +16,8 @@
 인도 유학 및 팝조이 협업 2018년
 
 삼정 데이터 서비스 인턴쉽 2017년
+
+---
 
 #### 후후후후
 
@@ -29,6 +33,7 @@
 
 `machine learning` `octave`
 
+---
 
 #### 히히히히
 
@@ -62,22 +67,8 @@
 
   기반은 HTML 이지만 `three.js`을 사용해서 3D 트리 위에 눈이 내림
 
-
+---
 
 #### 취미
 
 책을 제일 좋아한다고?
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
