@@ -29,7 +29,7 @@
 
 `aws` `gcp` `kubernets` `docker` `jenkins`
 
-`airflow` `bigquery`
+`mongoose` `mysql` `airflow` `bigquery`
 
 `machine learning` `octave`
 
