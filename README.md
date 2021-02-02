@@ -67,6 +67,9 @@
 
   기반은 HTML 이지만 `three.js`을 사용해서 3D 트리 위에 눈이 내림
 
+- [titanic](https://www.kaggle.com/magicard/titanic-surviver-s-data-analyze)
+  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석
+
 ---
 
 #### 취미
