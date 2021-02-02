@@ -39,37 +39,37 @@
 
 - [idontknownumber](https://github.com/hotsoycandy/idontknownumber)
 
-  python tensorflow 와 django 를 이용하여 웹상에서 숫자를 그리면 어떤 숫자인지 인식하는 웹앱
+  python tensorflow 와 django 를 이용하여 웹상에서 숫자를 그리면 어떤 숫자인지 인식하는 웹앱입니다.
 
 - [페르소나 상담 코칭 센터](https://personas.co.kr/)
 
   페르소나 상담 코칭 센터 웹페이지.
 
-  frontend 는 next.js, backend는 node.js - express. docker로 빌드 및 배포.
+  frontend 는 next.js, backend는 node.js - express. docker로 빌드 및 배포하고 있습니다.
 
-  이미지는 직접 구축한 개인 docker registry에 저장되며 kubernetes 위에서 운영됨.
+  이미지는 직접 구축한 개인 docker registry에 저장되며 kubernetes 위에서 운영됩니다.
 
-  jenkins을 통해 손쉬운 빋드/배포 파이프라인 구축
+  jenkins을 통해 손쉬운 빋드/배포 파이프라인 구축했습니다.
 
 - [멈뭄미](https://github.com/hotsoycandy/mum-moom-mi)
 
   > 담신믄 네모네모 멈뭄미믜 저주메 걸렸습니다! 멈멈!
 
-  한글을 입력하면 모든 ㅇ(이응)을 ㅁ(미음)으로 변환해서 돌려주는 API 서버.
+  한글을 입력하면 모든 ㅇ(이응)을 ㅁ(미음)으로 변환해서 돌려주는 API 서버입니다.
 
-  이외에도 헣헣히, 엉엉이, 섯섯시, 법붑비 등 여러 기능 존재.
+  이외에도 헣헣히, 엉엉이, 섯섯시, 법붑비 등 여러 기능 존재합니다.
 
-  앱과 연동되어 실제로 배포됐었음.
+  앱과 연동되어 실제로 배포됐었습니다.
 
 - [트리](https://github.com/Resten1497/christmas_tree/blob/master/html/3d-tree.html)
 
-  재미로 시작한 친구의 프로젝트에 올린 작업물
+  재미로 시작한 친구의 프로젝트에 올린 작업물입니다.
 
-  기반은 HTML 이지만 `three.js`을 사용해서 3D 트리 위에 눈이 내림
+  기반은 HTML 이지만 `three.js`을 사용해서 3D 트리 위에 눈이 내립니다.
 
 - [titanic](https://www.kaggle.com/magicard/titanic-surviver-s-data-analyze)
 
-  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석
+  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석 리포트 입니다.
 
 ---
 
