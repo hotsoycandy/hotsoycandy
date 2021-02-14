@@ -37,6 +37,11 @@
 
 #### 히히히히
 
+- [titanic](https://www.kaggle.com/magicard/titanic-survivors-data-analyze)
+
+  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석 리포트 입니다.
+    - 데이터 분석으로 Bronze 등급 달성
+
 - [idontknownumber](https://github.com/hotsoycandy/idontknownumber)
 
   python tensorflow 와 django 를 이용하여 웹상에서 숫자를 그리면 어떤 숫자인지 인식하는 웹앱입니다.
@@ -66,10 +71,6 @@
   재미로 시작한 친구의 프로젝트에 올린 작업물입니다.
 
   기반은 HTML 이지만 `three.js`을 사용해서 3D 트리 위에 눈이 내립니다.
-
-- [titanic](https://www.kaggle.com/magicard/titanic-surviver-s-data-analyze)
-
-  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석 리포트 입니다.
 
 ---
 
