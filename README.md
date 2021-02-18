@@ -41,6 +41,7 @@
 
   kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석 리포트 입니다.
     - 데이터 분석으로 Bronze 등급 달성
+    - Kaggle Trending 머릿글에 게시됨
 
 - [idontknownumber](https://github.com/hotsoycandy/idontknownumber)
 
