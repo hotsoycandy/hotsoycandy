@@ -1,4 +1,4 @@
-## (대충 센스있는 제목 🐱‍👤)
+# Hello, World! 🌏
 
 ---
 
@@ -7,19 +7,19 @@
 
 ---
 
-#### 헤헤헤헤
+#### 경력
 
-서울디지텍고등학교 강사 2019년 ~
+누리고 backend 개발자. 2018년 ~
 
-누리고 backend 개발자 2018년 ~
+서울디지텍고등학교 강사. 2019년 ~
 
-인도 유학 및 팝조이 협업 2018년
+인도 유학 및 `(주)팝조이` 와의 협업. 2018년
 
-삼정 데이터 서비스 인턴쉽 2017년
+삼정 데이터 서비스 인턴쉽. 2017년
 
 ---
 
-#### 후후후후
+#### 스킬 / 관심분야
 
 `javascript` `node.js` `express` `next.js` / `typescript` `deno` `react native`
 
@@ -29,19 +29,24 @@
 
 `aws` `gcp` `kubernets` `docker` `jenkins`
 
-`mongoose` `mysql` / `airflow` `bigquery`
+`mongoose` `mysql` / `bigquery`
 
-`machine learning` `octave`
+/ `machine learning` `octave`
 
 ---
 
-#### 히히히히
+#### 프로젝트
 
 - [titanic](https://www.kaggle.com/magicard/titanic-survivors-data-analyze)
 
-  kaggle 에 있는 타이타닉 사건 당시 생존자와 사망자 명단 분석 리포트 입니다.
-    - 데이터 분석으로 Bronze 등급 달성
-    - Kaggle Trending 머릿글에 게시됨
+  kaggle 에 있는 타이타닉 competition 데이터를 분석한 리포트 입니다.
+    - 데이터 분석으로 Bronze 등급 달성 (후에 예측 모델까지 추가)
+    - Kaggle Trending 머릿글에 게시된 적 있음
+
+- [solapi](https://solapi.com)
+
+  우리나라 최초로 api로 메시지 발송이 가능하게 한 서비스의 후속 서비스이자 자매 서비스, solapi의 백엔드 개발자입니다.
+  빠른 분산처리를 이용해 짧은 시간에도 수많은 요청을 처리할수 있도록 개발하였습니다.
 
 - [idontknownumber](https://github.com/hotsoycandy/idontknownumber)
 
@@ -49,15 +54,15 @@
 
 - [페르소나 상담 코칭 센터](https://personas.co.kr/)
 
-  페르소나 상담 코칭 센터 웹페이지.
+  페르소나 상담 코칭 센터 웹페이지입니다.
 
-  frontend: next.js, backend: node.js - express
+    - frontend: next.js, backend: node.js - express
   
-  docker로 빌드 및 배포하고 있습니다.
+    - docker를 이용해 직접 구축한 개인 docker registry에 배포
 
-  이미지는 직접 구축한 개인 docker registry에 저장되며 kubernetes 위에서 운영됩니다.
+    - 직접 구축한 kubernetes 환경에서 안정적으로 운영되고 있음.
 
-  jenkins을 통해 손쉬운 빋드/배포 파이프라인 구축했습니다.
+    - jenkins을 통해 손쉬운 빋드/배포 파이프라인 구축.
 
 - [멈뭄미](https://github.com/hotsoycandy/mum-moom-mi)
 
