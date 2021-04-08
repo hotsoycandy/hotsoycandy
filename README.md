@@ -41,6 +41,7 @@
 
   kaggle 에 있는 타이타닉 competition 데이터를 분석한 리포트 입니다.
     - 데이터 분석으로 Bronze 등급 달성 (후에 예측 모델까지 추가)
+    - 현재 약 1,600 views
     - Kaggle Trending 머릿글에 게시된 적 있음
 
 - [solapi](https://solapi.com)
