@@ -47,6 +47,7 @@
 
   우리나라 최초로 api로 메시지 발송이 가능하게 한 서비스의 후속 서비스이자 자매 서비스, solapi의 백엔드 개발자입니다.
   빠른 분산처리를 이용해 짧은 시간에도 수많은 요청을 처리할수 있도록 개발하였습니다.
+  MSA 기반으로 설계, 제작했으며 EKS 위에 돌아가는 환경을 구축하였습니다.
 
 - [idontknownumber](https://github.com/hotsoycandy/idontknownumber)
 
