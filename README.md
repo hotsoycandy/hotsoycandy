@@ -1,7 +1,7 @@
 # Hello, World! 🌏
 
 ---
-
+![roka badge](https://soldierdate.herokuapp.com/?endDate=20221023)
 - [github](https://github.com/hotsoycandy)
 - [stackoverflow](https://stackoverflow.com/users/8414569/jun)
 
