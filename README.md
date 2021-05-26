@@ -25,11 +25,13 @@
 
 `python` `pandas` `numpy` /  `django`
 
-`html` `css`
-
 `aws` `gcp` `kubernets` `docker` `jenkins`
 
-`mongoose` `mysql` / `bigquery`
+/ `tableau` `emr` `hadoop` `hive` `spark`
+
+`mongodb` `mysql`
+
+`html` `css`
 
 / `machine learning` `octave`
 
