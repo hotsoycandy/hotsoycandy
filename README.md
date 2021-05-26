@@ -67,7 +67,7 @@
 
     - 직접 구축한 kubernetes 환경에서 안정적으로 운영되고 있음.
 
-    - jenkins을 통해 손쉬운 빋드/배포 파이프라인 구축.
+    - jenkins을 통해 손쉬운 빌드/배포 파이프라인 구축.
 
 - [멈뭄미](https://github.com/hotsoycandy/mum-moom-mi)
 
